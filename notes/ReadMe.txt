@@ -1,5 +1,7 @@
 
-Wed July 9, 2025
+Wed July 9, 2025  (updated Mon July 7, 2025)
+
+Update:  In src main.py and minlex.py are the same file.  Seems I built it both ways!
 
 Did this on MX Linux
 
